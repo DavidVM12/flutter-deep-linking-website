@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.davidvelasco.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["C8:A0:89:7D:62:D8:3A:0A:D8:9D:D3:A4:CF:9C:C8:E7:4E:1D:C1:19:AE:51:39:21:63:41:EB:3D:FF:68:C9:75"]
+    }
+  }]
+  
